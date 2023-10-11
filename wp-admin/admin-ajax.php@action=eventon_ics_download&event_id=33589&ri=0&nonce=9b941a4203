@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5e1ae36ac
+DTSTAMP:20231003T143154
+DTSTART:20231116
+DTEND:20231118
+TZID:America/New_York
+LOCATION:Renaissance Orlando at SeaWorld 6677 Sea Harbor Dr
+SUMMARY:Chief Experience Officer Exchange
+DESCRIPTION: Concentrix + Webhelp is proud to sponsor the CXO Exchange\,  an invitation-only event designed for senior CX Leaders seeking efficient solutions to modernize and address evolving challenges. Join us in Orlando for a unique benchmarking and solution sourcing opportunity.\nhttps://www.concentrix.com/event/chief-experience-officer-exchange/
+URL:https://www.concentrix.com/event/chief-experience-officer-exchange/
+END:VEVENT
+END:VCALENDAR

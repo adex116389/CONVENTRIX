@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5dec43a03
+DTSTAMP:20231003T143108
+DTSTART:20231005T230000Z
+DTEND:20231006T010000Z
+TZID:America/Chicago
+LOCATION:Birraporetti&#039;s Downtown 500 Louisiana St
+SUMMARY:Post Google Gen AI Workshop Happy Hour with Concentrix - Houston
+DESCRIPTION: Join us to unwind after the Google Gen AI workshop for drinks and appetizers at Birraporetti&#8217;s Downtown.\nhttps://www.concentrix.com/event/post-google-gen-ai-workshop-happy-hour-with-concentrix-houston/
+URL:https://www.concentrix.com/event/post-google-gen-ai-workshop-happy-hour-with-concentrix-houston/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5e11768e9
+DTSTAMP:20231003T143145
+DTSTART:20231114T163000Z
+DTEND:20231115T000000Z
+TZID:America/New_York
+LOCATION:AWS New York City Office 7 West 34th Street
+SUMMARY:Concentrix/AWS Amazon Connect and GenAI Workshop: New York City
+DESCRIPTION: Contact centers have been rapidly evolving to keep up with the increase in customer demand and expectations. Now\,  contact center and customer service professional are accelerating the rate of innovation with automation\,  personalization\,  and unique customer experiences.&nbsp; Join the Concentrix and AWS teams for this complimentary workshop at the AWS[..]\nhttps://www.concentrix.com/event/concentrix-aws-amazon-connect-and-genai-workshop-new-york-city/
+URL:https://www.concentrix.com/event/concentrix-aws-amazon-connect-and-genai-workshop-new-york-city/
+END:VEVENT
+END:VCALENDAR

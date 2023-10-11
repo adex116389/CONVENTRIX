@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5dd799b05
+DTSTAMP:20231003T143047
+DTSTART:20231003T230000Z
+DTEND:20231004T010000Z
+TZID:America/Chicago
+LOCATION:Hopsquad Brewing Co 2307 Kramer Ln
+SUMMARY:Post Google Gen AI Workshop Happy Hour with Concentrix - Austin
+DESCRIPTION: Join us to unwind after the Google Gen AI workshop for drinks and appetizers at the Hopsquad Brewery.\nhttps://www.concentrix.com/event/post-google-gen-ai-workshop-happy-hour-with-concentrix-austin/
+URL:https://www.concentrix.com/event/post-google-gen-ai-workshop-happy-hour-with-concentrix-austin/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5dfb6a710
+DTSTAMP:20231003T143123
+DTSTART:20231011T150000Z
+DTEND:20231011T180000Z
+TZID:America/New_York
+LOCATION:TPC Sawgrass 110 Championship Way
+SUMMARY:AWS Executive Event: Women of the Cloud
+DESCRIPTION: AWS brings together women from all backgrounds and experiences for an afternoon of networking and panel discussions. You will hear from women leaders across different industries and explore various approaches to leadership. Join our very own Rachel Schaeffer and a panel of other industry leaders talk about the tech and[..]\nhttps://www.concentrix.com/event/women-of-the-cloud-at-tpc-sawgrass/
+URL:https://www.concentrix.com/event/women-of-the-cloud-at-tpc-sawgrass/
+END:VEVENT
+END:VCALENDAR

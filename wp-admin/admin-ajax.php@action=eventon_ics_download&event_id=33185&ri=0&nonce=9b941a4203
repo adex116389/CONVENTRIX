@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5ddcadf2b
+DTSTAMP:20231003T143052
+DTSTART:20231004T180000Z
+DTEND:20231004T190000Z
+TZID:America/New_York
+LOCATION:
+SUMMARY:Standing Outside the FHIR
+DESCRIPTION: Many health insurance companies see Fast Healthcare Interoperability Resources (FHIR) as an industry standard to be matched. To truly harness the power of interoperability\,  organizations must go beyond checking the box on FHIR compliance and explore strategies that can turn it into a competitive advantage. Join healthcare leaders from Concentrix[..]\nhttps://www.concentrix.com/event/standing-outside-the-fhir/
+URL:https://www.concentrix.com/event/standing-outside-the-fhir/
+END:VEVENT
+END:VCALENDAR

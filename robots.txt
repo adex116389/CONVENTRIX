@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /nispaara-template/
+Disallow: /nispaara-home-2/
+Disallow: /about-us/nispaara-locations/
+Disallow: /about-us/nispaara-locationsvr1/
+Disallow: /nispaara-newsroom/
+Disallow: /nispaara-test-page/
+Disallow: /nispaara-test-page1/

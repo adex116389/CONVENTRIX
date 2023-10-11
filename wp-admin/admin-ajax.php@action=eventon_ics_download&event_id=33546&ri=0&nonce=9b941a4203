@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5df5af38b
+DTSTAMP:20231003T143117
+DTSTART:20231010
+DTEND:20231012
+TZID:America/New_York
+LOCATION:Intercontinental Miami 100 Chopin Plaza
+SUMMARY:CX BFSI USA Exchange
+DESCRIPTION: Concentrix + Webhelp are thrilled to sponsor the 10th edition of the CX Exchange for Banking\,  Financial Services\,  and Insurance. Over the past decade\,  the financial landscape has evolved dramatically\,  with digitization and customer expectations at an all-time high. In these uncertain times\,  CX leaders must provide secure\,  personalized\,  and[..]\nhttps://www.concentrix.com/event/cx-bfsi-usa-exchange/
+URL:https://www.concentrix.com/event/cx-bfsi-usa-exchange/
+END:VEVENT
+END:VCALENDAR

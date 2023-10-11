@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5e1fb48dc
+DTSTAMP:20231003T143159
+DTSTART:20231128
+DTEND:20231202
+TZID:America/New_York
+LOCATION:Las Vegas\,  NV 
+SUMMARY:AWS re:Invent
+DESCRIPTION: Concentrix will be hosting a hospitality suite at AWS re:Invent from Nov 27 – Dec 1\,  2023 in Las Vegas\,  NV where attendees from around the world join to hear the latest cloud industry innovations\,  meet with AWS experts\,  and build connections.  We hope to see you at re:Invent!\nhttps://www.concentrix.com/event/aws-reinvent/
+URL:https://www.concentrix.com/event/aws-reinvent/
+END:VEVENT
+END:VCALENDAR

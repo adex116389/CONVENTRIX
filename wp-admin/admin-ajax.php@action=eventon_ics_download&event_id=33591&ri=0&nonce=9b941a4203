@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5e1633357
+DTSTAMP:20231003T143150
+DTSTART:20231114
+DTEND:20231115
+TZID:Europe/Berlin
+LOCATION:Munich Airport Nordallee 25
+SUMMARY:Celosphere 23
+DESCRIPTION: Concentrix + Webhelp is excited to be platinum sponsors of Celosphere\,  the premier event for process experts and leaders. Join over 3\, 000 like-minded individuals to discover the latest in process intelligence\,  AI\,  and more\,  with inspiring keynotes and insightful breakout sessions. Connect with fellow changemakers and register now to join[..]\nhttps://www.concentrix.com/event/celosphere-23/
+URL:https://www.concentrix.com/event/celosphere-23/
+END:VEVENT
+END:VCALENDAR

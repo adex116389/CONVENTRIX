@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5de120377
+DTSTAMP:20231003T143057
+DTSTART:20231005T210000Z
+DTEND:20231006T000000Z
+TZID:America/Denver
+LOCATION:Topgolf Denver 10601 E Easter Ave
+SUMMARY:Swing Into the Future: A Premier Executive Golf Summit by Adobe and Concentrix
+DESCRIPTION: If you are an executive or manager responsible for steering your organization towards digital success\,  this event offers a unique opportunity to network with industry experts\,  share best practices\,  and gain valuable perspectives on harnessing the power of AI technology to drive transformative change.\nhttps://www.concentrix.com/event/generative-ai-for-digital-transformation/
+URL:https://www.concentrix.com/event/generative-ai-for-digital-transformation/
+END:VEVENT
+END:VCALENDAR

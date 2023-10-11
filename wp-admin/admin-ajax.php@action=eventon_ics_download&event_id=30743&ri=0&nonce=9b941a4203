@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5dff8d423
+DTSTAMP:20231003T143127
+DTSTART:20231016T190000Z
+DTEND:20231018T190000Z
+TZID:America/Los_Angeles
+LOCATION:ARIA Resort & Casino 3730 S Las Vegas Blvd\,  Las Vegas\,  NV 89158
+SUMMARY:TSIA World: Envision
+DESCRIPTION: As a long-time partner and returning Gold sponsor\,  Concentrix is proud to support TSIA World: ENVISION. The event offers a platform to share thought leadership and ideas for building a silo-busting culture\,  driving organizational efficiency\,  and boosting annual recurring revenue. It is a must-attend gathering for global tech teams\,  providing[..]\nhttps://www.concentrix.com/event/tsia-world-envision/
+URL:https://www.concentrix.com/event/tsia-world-envision/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5e0bc3710
+DTSTAMP:20231003T143139
+DTSTART:20231109T193000Z
+DTEND:20231110T030000Z
+TZID:America/Los_Angeles
+LOCATION:AWS San Diego Office 10300 Campus Point Drive\,  Suite 200
+SUMMARY:Concentrix/AWS Amazon Connect and GenAI Workshop: San Diego
+DESCRIPTION: Contact centers have been rapidly evolving to keep up with the increase in customer demand and expectations. Now\,  contact center and customer service professional are accelerating the rate of innovation with automation\,  personalization\,  and unique customer experiences.&nbsp; Join the Concentrix and AWS teams for this complimentary workshop at the AWS[..]\nhttps://www.concentrix.com/event/concentrix-aws-amazon-connect-and-genai-workshop-san-diego/
+URL:https://www.concentrix.com/event/concentrix-aws-amazon-connect-and-genai-workshop-san-diego/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5df195134
+DTSTAMP:20231003T143113
+DTSTART:20231008T190000Z
+DTEND:20231011T190000Z
+TZID:America/Los_Angeles
+LOCATION:Las Vegas Convention Center\,  West Hall 300 Convention Center Dr\,  Las Vegas\,  NV 89109
+SUMMARY:HLTH 2023
+DESCRIPTION: HLTH 2023 is all about personalized experiences that focus on your goals. Whether it&#8217;s meeting people and organizations who can accelerate your business outcomes\,  staying ahead of emerging trends\,  connecting with your industry colleagues\,  advancing your career\,  or all of the above— HLTH 2023 will deliver a curated experience that[..]\nhttps://www.concentrix.com/event/hlth-2023/
+URL:https://www.concentrix.com/event/hlth-2023/
+END:VEVENT
+END:VCALENDAR

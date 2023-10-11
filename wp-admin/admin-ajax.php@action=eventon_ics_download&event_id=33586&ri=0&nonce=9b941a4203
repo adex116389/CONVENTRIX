@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//eventon.com NONSGML v1.0//EN
+BEGIN:VEVENT
+UID:651c5e06881a8
+DTSTAMP:20231003T143134
+DTSTART:20231018T153000Z
+DTEND:20231018T223000Z
+TZID:America/Los_Angeles
+LOCATION:Maderas Golf Club 17750 Old Coach Rd
+SUMMARY:Driving Success: Tee Off with Adobe and Concentrix at Maderas Golf Club
+DESCRIPTION: Join Adobe and Concentrix for an exclusive golf event\,  blending networking\,  innovation\,  and business solutions. Connect with industry leaders and gain insights for success: Engage in dynamic networking Elevate your golf game Explore cutting-edge solutions Connect with digital experience experts Foster great connections for business growth Tee off for a[..]\nhttps://www.concentrix.com/event/driving-success-tee-off-with-adobe-and-concentrix-at-maderas-golf-club/
+URL:https://www.concentrix.com/event/driving-success-tee-off-with-adobe-and-concentrix-at-maderas-golf-club/
+END:VEVENT
+END:VCALENDAR
